@@ -15,9 +15,9 @@
 ### Backend
 cd backend
 npm install
-npm run dev
+npm start
 
 ### Frontend
-cd frontend
+cd frontend\food-blog-app
 npm install
-npm start
+npm run dev
